@@ -1,0 +1,2 @@
+# MavenArchetypes
+Archetypes Maven
