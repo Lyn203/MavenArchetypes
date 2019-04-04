@@ -4,5 +4,5 @@ Archetypes Maven
 > mvn archetype:create-from-project
 ## Create Maven Project from local repo (cmd)
 > mvn archetype:generate -DarchetypeCatalog=local
-## Create Maven Project from local repo (shell)
+## Create Maven Project from local repo (Powershell)
 > mvn archetype:generate -DarchetypeCatalog=local
